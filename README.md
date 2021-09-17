@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihavci&label=Profile%20views&color=0e75b6&style=flat" alt="salihavci" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihavci" alt="salihavci" /></a> </p>
+<p align="left"> <a href="https://github.com/salihavci/salihavci"><img src="https://github-profile-trophy.vercel.app/?username=salihavci" alt="salihavci" /></a> </p>
 
 - 🔭 I’m currently working on **.Net Core 5 projects.**
 
